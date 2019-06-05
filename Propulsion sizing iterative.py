@@ -123,7 +123,7 @@ def iter(T):
         log.append(entry)
     return list(Weight)
 
-
+print (loads[3])
 
 
 
